@@ -1,0 +1,7 @@
+# Ignorar todos los archivos y carpetas por defecto
+*
+
+# Permitir acceso a archivos necesarios
+!*.ipynb
+!*.txt
+!.gitignore
