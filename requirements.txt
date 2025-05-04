@@ -1,2 +1,4 @@
 gdown
 pandas
+matplotlyb
+seaborn
