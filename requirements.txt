@@ -1,4 +1,7 @@
 gdown
 pandas
-matplotlyb
+matplotlib
 seaborn
+ipython
+geopy
+folium
