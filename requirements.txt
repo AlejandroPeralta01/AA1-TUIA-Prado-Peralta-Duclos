@@ -5,3 +5,4 @@ seaborn
 ipython
 geopy
 folium
+scikit-learn
