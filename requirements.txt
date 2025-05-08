@@ -6,3 +6,4 @@ ipython
 geopy
 folium
 scikit-learn
+geocoder
