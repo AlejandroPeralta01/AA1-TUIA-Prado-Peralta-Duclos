@@ -7,3 +7,5 @@ geopy
 folium
 scikit-learn
 geocoder
+imbalanced-learn
+smote
