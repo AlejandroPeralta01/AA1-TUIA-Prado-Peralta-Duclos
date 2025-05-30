@@ -10,3 +10,4 @@ geocoder
 imbalanced-learn
 smote
 optuna
+shap
