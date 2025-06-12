@@ -11,3 +11,4 @@ imbalanced-learn
 smote
 optuna
 shap
+tensorflow
