@@ -5,3 +5,6 @@
 !*.ipynb
 !*.txt
 !.gitignore
+!inferencia.py
+!pkl/
+!pkl/**
