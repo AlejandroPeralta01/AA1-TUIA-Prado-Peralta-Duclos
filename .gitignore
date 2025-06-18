@@ -1,10 +1,7 @@
-# Ignorar todos los archivos y carpetas por defecto
-*
-
-# Permitir acceso a archivos necesarios
-!*.ipynb
-!*.txt
-!.gitignore
-!inferencia.py
-!pkl/
-!pkl/**
+# Datos y modelos pesados
+imputers/
+models/
+tp2aa1/
+weatherAUS.csv
+logs.log
+*.log
