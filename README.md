@@ -12,7 +12,7 @@ Modelo de machine learning para predecir lluvia del día siguiente basado en dat
 ### Paso 1: Clonar el repositorio
 ```bash
 git clone <URL_DEL_REPO>
-cd AA1-TUIA-Prado-Peralta-D
+cd AA1-TUIA-Prado-Peralta-Duclos
 ```
 
 ### Paso 2: Navegar al directorio Docker
