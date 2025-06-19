@@ -19,8 +19,6 @@ logger.info('Pipeline cargado')
 df_input = pd.read_csv('/files/input.csv')
 logger.info('Datos cargados')
 
-print(df_input.head())
-
 # Predicciónes
 output = pipeline.predict(df_input)
 logger.info('Predicciones realizadas')
