@@ -11,7 +11,7 @@ Modelo de machine learning para predecir lluvia del día siguiente basado en dat
 
 ### Paso 1: Clonar el repositorio
 ```bash
-git clone <URL_DEL_REPO>
+git clone https://github.com/AlejandroPeralta01/AA1-TUIA-Prado-Peralta-Duclos.git
 cd AA1-TUIA-Prado-Peralta-Duclos
 ```
 
