@@ -5,7 +5,7 @@ COPY requirements.txt .
 RUN pip install -r requirements.txt
 
 COPY transformadores.py .    
-COPY pipeline.pkl .          
+COPY all_pipelines.pkl .          
 COPY inferencia.py .         
 
 RUN mkdir -p /files

@@ -124,3 +124,4 @@ class ImputacionNulos(BaseEstimator, TransformerMixin):
         X_copy = imputar_con_tablas(X_copy, self.criterio_mediana_list, self.mediana_datos)
 
         return X_copy.drop('Month', axis=1)
+
